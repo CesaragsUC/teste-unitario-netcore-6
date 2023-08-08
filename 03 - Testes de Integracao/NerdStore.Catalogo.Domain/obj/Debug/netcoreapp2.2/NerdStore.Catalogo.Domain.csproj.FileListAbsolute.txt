@@ -1,0 +1,13 @@
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.deps.json
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.AssemblyInfo.cs
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.csproj.CopyComplete
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb

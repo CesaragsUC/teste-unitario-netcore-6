@@ -1,0 +1,1543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="0.9139" branch-rate="0.5681" version="1.9" timestamp="1671830700" lines-covered="393" lines-valid="430" branches-covered="25" branches-valid="44">
+  <sources>
+    <source>F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\</source>
+    <source>C:\</source>
+  </sources>
+  <packages>
+    <package name="Features" line-rate="0.7142000000000001" branch-rate="0.4" complexity="58">
+      <classes>
+        <class name="Features.Core.CpfValidation" filename="Features\Core\CpfValidation.cs" line-rate="1" branch-rate="1" complexity="10">
+          <methods>
+            <method name="EhValido" signature="(System.String)" line-rate="1" branch-rate="1" complexity="10">
+              <lines>
+                <line number="13" hits="11" branch="False" />
+                <line number="14" hits="11" branch="False" />
+                <line number="15" hits="11" branch="False" />
+                <line number="16" hits="11" branch="False" />
+                <line number="17" hits="11" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="87" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="18" hits="2" branch="False" />
+                <line number="19" hits="9" branch="False" />
+                <line number="20" hits="9" branch="False" />
+                <line number="22" hits="180" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="148" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="23" hits="81" branch="False" />
+                <line number="24" hits="9" branch="False" />
+                <line number="25" hits="9" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="159" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="26" hits="4" branch="False" />
+                <line number="28" hits="5" branch="False" />
+                <line number="29" hits="9" branch="False" />
+                <line number="30" hits="9" branch="False" />
+                <line number="31" hits="9" branch="False" />
+                <line number="32" hits="198" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="238" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="33" hits="90" branch="False" />
+                <line number="34" hits="9" branch="False" />
+                <line number="35" hits="9" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="249" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="36" hits="1" branch="False" />
+                <line number="38" hits="8" branch="False" />
+                <line number="39" hits="9" branch="False" />
+                <line number="40" hits="9" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="11" branch="False" />
+            <line number="14" hits="11" branch="False" />
+            <line number="15" hits="11" branch="False" />
+            <line number="16" hits="11" branch="False" />
+            <line number="17" hits="11" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="87" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="18" hits="2" branch="False" />
+            <line number="19" hits="9" branch="False" />
+            <line number="20" hits="9" branch="False" />
+            <line number="22" hits="180" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="148" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="23" hits="81" branch="False" />
+            <line number="24" hits="9" branch="False" />
+            <line number="25" hits="9" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="159" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="26" hits="4" branch="False" />
+            <line number="28" hits="5" branch="False" />
+            <line number="29" hits="9" branch="False" />
+            <line number="30" hits="9" branch="False" />
+            <line number="31" hits="9" branch="False" />
+            <line number="32" hits="198" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="238" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="33" hits="90" branch="False" />
+            <line number="34" hits="9" branch="False" />
+            <line number="35" hits="9" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="249" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="36" hits="1" branch="False" />
+            <line number="38" hits="8" branch="False" />
+            <line number="39" hits="9" branch="False" />
+            <line number="40" hits="9" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Core.Entity" filename="Features\Core\Entity.cs" line-rate="0.2" branch-rate="0" complexity="18">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="491" branch="False" />
+              </lines>
+            </method>
+            <method name="get_ValidationResult" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="61" branch="False" />
+              </lines>
+            </method>
+            <method name="EhValido" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="Equals" signature="(System.Object)" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="22" hits="0" branch="False" />
+                <line number="24" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="9" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="25" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="14" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="27" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="op_Equality" signature="(Features.Core.Entity,Features.Core.Entity)" line-rate="0" branch-rate="0" complexity="8">
+              <lines>
+                <line number="32" hits="0" branch="True" condition-coverage="0% (0/4)">
+                  <conditions>
+                    <condition number="1" type="jump" coverage="0%" />
+                    <condition number="4" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="33" hits="0" branch="False" />
+                <line number="35" hits="0" branch="True" condition-coverage="0% (0/4)">
+                  <conditions>
+                    <condition number="9" type="jump" coverage="0%" />
+                    <condition number="12" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="36" hits="0" branch="False" />
+                <line number="38" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="op_Inequality" signature="(Features.Core.Entity,Features.Core.Entity)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="43" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="GetHashCode" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="48" hits="50" branch="False" />
+              </lines>
+            </method>
+            <method name="ToString" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="53" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="491" branch="False" />
+            <line number="13" hits="61" branch="False" />
+            <line number="17" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+            <line number="24" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="9" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="25" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="14" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="27" hits="0" branch="False" />
+            <line number="32" hits="0" branch="True" condition-coverage="0% (0/4)">
+              <conditions>
+                <condition number="1" type="jump" coverage="0%" />
+                <condition number="4" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="33" hits="0" branch="False" />
+            <line number="35" hits="0" branch="True" condition-coverage="0% (0/4)">
+              <conditions>
+                <condition number="9" type="jump" coverage="0%" />
+                <condition number="12" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="36" hits="0" branch="False" />
+            <line number="38" hits="0" branch="False" />
+            <line number="43" hits="0" branch="False" />
+            <line number="48" hits="50" branch="False" />
+            <line number="53" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Clientes.Cliente" filename="Features\Clientes\Cliente.cs" line-rate="0.75" branch-rate="0" complexity="13">
+          <methods>
+            <method name="get_Nome" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="872" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Sobrenome" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="872" branch="False" />
+              </lines>
+            </method>
+            <method name="get_DataNascimento" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="466" branch="False" />
+              </lines>
+            </method>
+            <method name="get_DataCadastro" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="416" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Email" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="876" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Ativo" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="1219" branch="False" />
+              </lines>
+            </method>
+            <method name="NomeCompleto" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="33" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="EhEspecial" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="38" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="26" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+              </lines>
+            </method>
+            <method name="Inativar" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="43" hits="0" branch="False" />
+                <line number="44" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="EhValido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="48" hits="25" branch="False" />
+                <line number="49" hits="25" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="False" />
+                <line number="17" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.Guid,System.String,System.String,System.DateTime,System.String,System.Boolean,System.DateTime)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="416" branch="False" />
+                <line number="20" hits="416" branch="False" />
+                <line number="22" hits="416" branch="False" />
+                <line number="23" hits="416" branch="False" />
+                <line number="24" hits="416" branch="False" />
+                <line number="25" hits="416" branch="False" />
+                <line number="26" hits="416" branch="False" />
+                <line number="27" hits="416" branch="False" />
+                <line number="28" hits="416" branch="False" />
+                <line number="29" hits="416" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="872" branch="False" />
+            <line number="9" hits="872" branch="False" />
+            <line number="10" hits="466" branch="False" />
+            <line number="11" hits="416" branch="False" />
+            <line number="12" hits="876" branch="False" />
+            <line number="13" hits="1219" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="38" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="26" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="43" hits="0" branch="False" />
+            <line number="44" hits="0" branch="False" />
+            <line number="48" hits="25" branch="False" />
+            <line number="49" hits="25" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="17" hits="0" branch="False" />
+            <line number="19" hits="416" branch="False" />
+            <line number="20" hits="416" branch="False" />
+            <line number="22" hits="416" branch="False" />
+            <line number="23" hits="416" branch="False" />
+            <line number="24" hits="416" branch="False" />
+            <line number="25" hits="416" branch="False" />
+            <line number="26" hits="416" branch="False" />
+            <line number="27" hits="416" branch="False" />
+            <line number="28" hits="416" branch="False" />
+            <line number="29" hits="416" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Clientes.ClienteValidacao" filename="Features\Clientes\Cliente.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="HaveMinimumAge" signature="(System.DateTime)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="80" hits="25" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="55" hits="25" branch="False" />
+                <line number="57" hits="25" branch="False" />
+                <line number="58" hits="25" branch="False" />
+                <line number="59" hits="25" branch="False" />
+                <line number="61" hits="25" branch="False" />
+                <line number="62" hits="25" branch="False" />
+                <line number="63" hits="25" branch="False" />
+                <line number="65" hits="25" branch="False" />
+                <line number="66" hits="25" branch="False" />
+                <line number="67" hits="25" branch="False" />
+                <line number="68" hits="25" branch="False" />
+                <line number="70" hits="25" branch="False" />
+                <line number="71" hits="25" branch="False" />
+                <line number="72" hits="25" branch="False" />
+                <line number="74" hits="25" branch="False" />
+                <line number="75" hits="25" branch="False" />
+                <line number="76" hits="25" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="80" hits="25" branch="False" />
+            <line number="55" hits="25" branch="False" />
+            <line number="57" hits="25" branch="False" />
+            <line number="58" hits="25" branch="False" />
+            <line number="59" hits="25" branch="False" />
+            <line number="61" hits="25" branch="False" />
+            <line number="62" hits="25" branch="False" />
+            <line number="63" hits="25" branch="False" />
+            <line number="65" hits="25" branch="False" />
+            <line number="66" hits="25" branch="False" />
+            <line number="67" hits="25" branch="False" />
+            <line number="68" hits="25" branch="False" />
+            <line number="70" hits="25" branch="False" />
+            <line number="71" hits="25" branch="False" />
+            <line number="72" hits="25" branch="False" />
+            <line number="74" hits="25" branch="False" />
+            <line number="75" hits="25" branch="False" />
+            <line number="76" hits="25" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Clientes.ClienteEmailNotification" filename="Features\Clientes\ClienteEmailNotification.cs" line-rate="1" branch-rate="1" complexity="5">
+          <methods>
+            <method name="get_Origem" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Destino" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Assunto" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Mensagem" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.String,System.String,System.String,System.String)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="4" branch="False" />
+                <line number="19" hits="4" branch="False" />
+                <line number="20" hits="4" branch="False" />
+                <line number="21" hits="4" branch="False" />
+                <line number="22" hits="4" branch="False" />
+                <line number="23" hits="4" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="4" branch="False" />
+            <line number="13" hits="4" branch="False" />
+            <line number="14" hits="4" branch="False" />
+            <line number="15" hits="4" branch="False" />
+            <line number="17" hits="4" branch="False" />
+            <line number="19" hits="4" branch="False" />
+            <line number="20" hits="4" branch="False" />
+            <line number="21" hits="4" branch="False" />
+            <line number="22" hits="4" branch="False" />
+            <line number="23" hits="4" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Clientes.ClienteService" filename="Features\Clientes\ClienteService.cs" line-rate="0.40740000000000004" branch-rate="0.3333" complexity="10">
+          <methods>
+            <method name="ObterTodosAtivos" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="608" branch="False" />
+              </lines>
+            </method>
+            <method name="Adicionar" signature="(Features.Clientes.Cliente)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="29" hits="8" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="6" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="30" hits="4" branch="False" />
+                <line number="32" hits="4" branch="False" />
+                <line number="33" hits="4" branch="False" />
+                <line number="34" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name="Atualizar" signature="(Features.Clientes.Cliente)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="38" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="6" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="39" hits="0" branch="False" />
+                <line number="41" hits="0" branch="False" />
+                <line number="42" hits="0" branch="False" />
+                <line number="43" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="Inativar" signature="(Features.Clientes.Cliente)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="47" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="6" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="48" hits="0" branch="False" />
+                <line number="50" hits="0" branch="False" />
+                <line number="51" hits="0" branch="False" />
+                <line number="52" hits="0" branch="False" />
+                <line number="53" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="Remover" signature="(Features.Clientes.Cliente)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="57" hits="0" branch="False" />
+                <line number="58" hits="0" branch="False" />
+                <line number="59" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="Dispose" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="63" hits="0" branch="False" />
+                <line number="64" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Features.Clientes.IClienteRepository,MediatR.IMediator)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="12" branch="False" />
+                <line number="16" hits="12" branch="False" />
+                <line number="18" hits="12" branch="False" />
+                <line number="19" hits="12" branch="False" />
+                <line number="20" hits="12" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="24" hits="608" branch="False" />
+            <line number="29" hits="8" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="6" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="30" hits="4" branch="False" />
+            <line number="32" hits="4" branch="False" />
+            <line number="33" hits="4" branch="False" />
+            <line number="34" hits="4" branch="False" />
+            <line number="38" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="6" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="39" hits="0" branch="False" />
+            <line number="41" hits="0" branch="False" />
+            <line number="42" hits="0" branch="False" />
+            <line number="43" hits="0" branch="False" />
+            <line number="47" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="6" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="48" hits="0" branch="False" />
+            <line number="50" hits="0" branch="False" />
+            <line number="51" hits="0" branch="False" />
+            <line number="52" hits="0" branch="False" />
+            <line number="53" hits="0" branch="False" />
+            <line number="57" hits="0" branch="False" />
+            <line number="58" hits="0" branch="False" />
+            <line number="59" hits="0" branch="False" />
+            <line number="63" hits="0" branch="False" />
+            <line number="64" hits="0" branch="False" />
+            <line number="15" hits="12" branch="False" />
+            <line number="16" hits="12" branch="False" />
+            <line number="18" hits="12" branch="False" />
+            <line number="19" hits="12" branch="False" />
+            <line number="20" hits="12" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Features.Tests" line-rate="0.9903" branch-rate="0.9285" complexity="68">
+      <classes>
+        <class name="AutoGeneratedProgram" filename="Users\cesar\.nuget\packages\microsoft.net.test.sdk\17.1.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(System.String[])" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.ClienteTests" filename="Features.Tests\01 - Traits\ClienteTests.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Cliente_NovoCliente_DeveEstarValido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="1" branch="False" />
+                <line number="18" hits="1" branch="False" />
+                <line number="19" hits="1" branch="False" />
+                <line number="20" hits="1" branch="False" />
+                <line number="21" hits="1" branch="False" />
+                <line number="22" hits="1" branch="False" />
+                <line number="23" hits="1" branch="False" />
+                <line number="24" hits="1" branch="False" />
+                <line number="27" hits="1" branch="False" />
+                <line number="30" hits="1" branch="False" />
+                <line number="31" hits="1" branch="False" />
+                <line number="32" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Cliente_NovoCliente_DeveEstarInvalido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="39" hits="1" branch="False" />
+                <line number="40" hits="1" branch="False" />
+                <line number="41" hits="1" branch="False" />
+                <line number="42" hits="1" branch="False" />
+                <line number="43" hits="1" branch="False" />
+                <line number="44" hits="1" branch="False" />
+                <line number="45" hits="1" branch="False" />
+                <line number="46" hits="1" branch="False" />
+                <line number="49" hits="1" branch="False" />
+                <line number="52" hits="1" branch="False" />
+                <line number="53" hits="1" branch="False" />
+                <line number="54" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="17" hits="1" branch="False" />
+            <line number="18" hits="1" branch="False" />
+            <line number="19" hits="1" branch="False" />
+            <line number="20" hits="1" branch="False" />
+            <line number="21" hits="1" branch="False" />
+            <line number="22" hits="1" branch="False" />
+            <line number="23" hits="1" branch="False" />
+            <line number="24" hits="1" branch="False" />
+            <line number="27" hits="1" branch="False" />
+            <line number="30" hits="1" branch="False" />
+            <line number="31" hits="1" branch="False" />
+            <line number="32" hits="1" branch="False" />
+            <line number="39" hits="1" branch="False" />
+            <line number="40" hits="1" branch="False" />
+            <line number="41" hits="1" branch="False" />
+            <line number="42" hits="1" branch="False" />
+            <line number="43" hits="1" branch="False" />
+            <line number="44" hits="1" branch="False" />
+            <line number="45" hits="1" branch="False" />
+            <line number="46" hits="1" branch="False" />
+            <line number="49" hits="1" branch="False" />
+            <line number="52" hits="1" branch="False" />
+            <line number="53" hits="1" branch="False" />
+            <line number="54" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.ClienteTesteInvalido" filename="Features.Tests\02 - Fixtures\ClienteTesteInvalido.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Cliente_NovoCliente_DeveEstarInvalido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="1" branch="False" />
+                <line number="27" hits="1" branch="False" />
+                <line number="30" hits="1" branch="False" />
+                <line number="31" hits="1" branch="False" />
+                <line number="32" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Features.Tests.ClienteTestsFixture)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="1" branch="False" />
+                <line number="16" hits="1" branch="False" />
+                <line number="17" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="24" hits="1" branch="False" />
+            <line number="27" hits="1" branch="False" />
+            <line number="30" hits="1" branch="False" />
+            <line number="31" hits="1" branch="False" />
+            <line number="32" hits="1" branch="False" />
+            <line number="14" hits="1" branch="False" />
+            <line number="16" hits="1" branch="False" />
+            <line number="17" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.ClienteTesteValido" filename="Features.Tests\02 - Fixtures\ClienteTesteValido.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Cliente_NovoCliente_DeveEstarValido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="1" branch="False" />
+                <line number="28" hits="1" branch="False" />
+                <line number="31" hits="1" branch="False" />
+                <line number="32" hits="1" branch="False" />
+                <line number="33" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Features.Tests.ClienteTestsFixture)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="1" branch="False" />
+                <line number="16" hits="1" branch="False" />
+                <line number="17" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="25" hits="1" branch="False" />
+            <line number="28" hits="1" branch="False" />
+            <line number="31" hits="1" branch="False" />
+            <line number="32" hits="1" branch="False" />
+            <line number="33" hits="1" branch="False" />
+            <line number="14" hits="1" branch="False" />
+            <line number="16" hits="1" branch="False" />
+            <line number="17" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.ClienteTestsFixture" filename="Features.Tests\02 - Fixtures\ClienteTestsFixture.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="GerarClienteValido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="1" branch="False" />
+                <line number="19" hits="1" branch="False" />
+                <line number="20" hits="1" branch="False" />
+                <line number="21" hits="1" branch="False" />
+                <line number="22" hits="1" branch="False" />
+                <line number="23" hits="1" branch="False" />
+                <line number="24" hits="1" branch="False" />
+                <line number="25" hits="1" branch="False" />
+                <line number="27" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="GerarClienteInValido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="32" hits="1" branch="False" />
+                <line number="33" hits="1" branch="False" />
+                <line number="34" hits="1" branch="False" />
+                <line number="35" hits="1" branch="False" />
+                <line number="36" hits="1" branch="False" />
+                <line number="37" hits="1" branch="False" />
+                <line number="38" hits="1" branch="False" />
+                <line number="39" hits="1" branch="False" />
+                <line number="41" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Dispose" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="46" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="18" hits="1" branch="False" />
+            <line number="19" hits="1" branch="False" />
+            <line number="20" hits="1" branch="False" />
+            <line number="21" hits="1" branch="False" />
+            <line number="22" hits="1" branch="False" />
+            <line number="23" hits="1" branch="False" />
+            <line number="24" hits="1" branch="False" />
+            <line number="25" hits="1" branch="False" />
+            <line number="27" hits="1" branch="False" />
+            <line number="32" hits="1" branch="False" />
+            <line number="33" hits="1" branch="False" />
+            <line number="34" hits="1" branch="False" />
+            <line number="35" hits="1" branch="False" />
+            <line number="36" hits="1" branch="False" />
+            <line number="37" hits="1" branch="False" />
+            <line number="38" hits="1" branch="False" />
+            <line number="39" hits="1" branch="False" />
+            <line number="41" hits="1" branch="False" />
+            <line number="46" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.OrdemTestes" filename="Features.Tests\03 - Order\OrdemTestes.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="Teste04" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="21" hits="1" branch="False" />
+                <line number="23" hits="1" branch="False" />
+                <line number="24" hits="1" branch="False" />
+                <line number="25" hits="1" branch="False" />
+                <line number="26" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Teste01" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="32" hits="1" branch="False" />
+                <line number="34" hits="1" branch="False" />
+                <line number="35" hits="1" branch="False" />
+                <line number="36" hits="1" branch="False" />
+                <line number="37" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Teste03" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="43" hits="1" branch="False" />
+                <line number="45" hits="1" branch="False" />
+                <line number="46" hits="1" branch="False" />
+                <line number="47" hits="1" branch="False" />
+                <line number="48" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Teste02" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="54" hits="1" branch="False" />
+                <line number="56" hits="1" branch="False" />
+                <line number="57" hits="1" branch="False" />
+                <line number="58" hits="1" branch="False" />
+                <line number="59" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="21" hits="1" branch="False" />
+            <line number="23" hits="1" branch="False" />
+            <line number="24" hits="1" branch="False" />
+            <line number="25" hits="1" branch="False" />
+            <line number="26" hits="1" branch="False" />
+            <line number="32" hits="1" branch="False" />
+            <line number="34" hits="1" branch="False" />
+            <line number="35" hits="1" branch="False" />
+            <line number="36" hits="1" branch="False" />
+            <line number="37" hits="1" branch="False" />
+            <line number="43" hits="1" branch="False" />
+            <line number="45" hits="1" branch="False" />
+            <line number="46" hits="1" branch="False" />
+            <line number="47" hits="1" branch="False" />
+            <line number="48" hits="1" branch="False" />
+            <line number="54" hits="1" branch="False" />
+            <line number="56" hits="1" branch="False" />
+            <line number="57" hits="1" branch="False" />
+            <line number="58" hits="1" branch="False" />
+            <line number="59" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.TestPriorityAttribute" filename="Features.Tests\03 - Order\TestPriorityAttribute.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_Priority" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="4" branch="False" />
+                <line number="16" hits="4" branch="False" />
+                <line number="17" hits="4" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="19" hits="4" branch="False" />
+            <line number="14" hits="4" branch="False" />
+            <line number="16" hits="4" branch="False" />
+            <line number="17" hits="4" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.PriorityOrderer" filename="Features.Tests\03 - Order\TestPriorityAttribute.cs" line-rate="1" branch-rate="0.5" complexity="2">
+          <methods>
+            <method name="GetOrCreate" signature="(System.Collections.Generic.IDictionary`2&lt;TKey,TValue&gt;,TKey)" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="48" hits="4" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="9" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="50" hits="4" branch="False" />
+                <line number="51" hits="4" branch="False" />
+                <line number="53" hits="4" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="48" hits="4" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="9" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="50" hits="4" branch="False" />
+            <line number="51" hits="4" branch="False" />
+            <line number="53" hits="4" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.PriorityOrderer/&lt;&gt;c__0`1" filename="Features.Tests\03 - Order\TestPriorityAttribute.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="&lt;OrderTestCases&gt;b__0_1" signature="(TTestCase,TTestCase)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="40" hits="4" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="40" hits="4" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.PriorityOrderer/&lt;&gt;c__DisplayClass0_0`1" filename="Features.Tests\03 - Order\TestPriorityAttribute.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="&lt;OrderTestCases&gt;b__0" signature="(System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="38" hits="14" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="38" hits="14" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.PriorityOrderer/&lt;OrderTestCases&gt;d__0`1" filename="Features.Tests\03 - Order\TestPriorityAttribute.cs" line-rate="1" branch-rate="1" complexity="12">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="12">
+              <lines>
+                <line number="26" hits="1" branch="False" />
+                <line number="28" hits="10" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="192" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="30" hits="4" branch="False" />
+                <line number="32" hits="16" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="150" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="33" hits="4" branch="False" />
+                <line number="35" hits="4" branch="False" />
+                <line number="41" hits="16" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="407" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="42" hits="4" branch="False" />
+                <line number="44" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="26" hits="1" branch="False" />
+            <line number="28" hits="10" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="192" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="30" hits="4" branch="False" />
+            <line number="32" hits="16" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="150" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="33" hits="4" branch="False" />
+            <line number="35" hits="4" branch="False" />
+            <line number="41" hits="16" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="407" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="42" hits="4" branch="False" />
+            <line number="44" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.ClienteBogusTests" filename="Features.Tests\04 - Dados Humanos\ClienteBogusTests.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="Cliente_NovoCliente_DeveEstarValido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="1" branch="False" />
+                <line number="31" hits="1" branch="False" />
+                <line number="34" hits="1" branch="False" />
+                <line number="35" hits="1" branch="False" />
+                <line number="36" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Cliente_NovoCliente_DeveEstarInvalido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="43" hits="1" branch="False" />
+                <line number="46" hits="1" branch="False" />
+                <line number="49" hits="1" branch="False" />
+                <line number="50" hits="1" branch="False" />
+                <line number="51" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Features.Tests.ClienteTestsBogusFixture)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="2" branch="False" />
+                <line number="19" hits="2" branch="False" />
+                <line number="20" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="28" hits="1" branch="False" />
+            <line number="31" hits="1" branch="False" />
+            <line number="34" hits="1" branch="False" />
+            <line number="35" hits="1" branch="False" />
+            <line number="36" hits="1" branch="False" />
+            <line number="43" hits="1" branch="False" />
+            <line number="46" hits="1" branch="False" />
+            <line number="49" hits="1" branch="False" />
+            <line number="50" hits="1" branch="False" />
+            <line number="51" hits="1" branch="False" />
+            <line number="17" hits="2" branch="False" />
+            <line number="19" hits="2" branch="False" />
+            <line number="20" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.ClienteTestsBogusFixture" filename="Features.Tests\04 - Dados Humanos\ClienteTestsBogusFixture.cs" line-rate="1" branch-rate="1" complexity="5">
+          <methods>
+            <method name="GerarClienteValido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="3" branch="False" />
+              </lines>
+            </method>
+            <method name="ObterClientesVariados" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="2" branch="False" />
+                <line number="27" hits="2" branch="False" />
+                <line number="28" hits="2" branch="False" />
+                <line number="30" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="GerarClientes" signature="(System.Int32,System.Boolean)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="35" hits="7" branch="False" />
+                <line number="41" hits="7" branch="False" />
+                <line number="42" hits="203" branch="False" />
+                <line number="43" hits="203" branch="False" />
+                <line number="44" hits="203" branch="False" />
+                <line number="45" hits="203" branch="False" />
+                <line number="46" hits="203" branch="False" />
+                <line number="47" hits="203" branch="False" />
+                <line number="48" hits="203" branch="False" />
+                <line number="49" hits="203" branch="False" />
+                <line number="50" hits="7" branch="False" />
+                <line number="51" hits="210" branch="False" />
+                <line number="53" hits="7" branch="False" />
+              </lines>
+            </method>
+            <method name="GerarClienteInvalido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="58" hits="3" branch="False" />
+                <line number="60" hits="3" branch="False" />
+                <line number="61" hits="6" branch="False" />
+                <line number="62" hits="6" branch="False" />
+                <line number="63" hits="6" branch="False" />
+                <line number="64" hits="6" branch="False" />
+                <line number="65" hits="6" branch="False" />
+                <line number="66" hits="6" branch="False" />
+                <line number="67" hits="6" branch="False" />
+                <line number="68" hits="6" branch="False" />
+                <line number="70" hits="3" branch="False" />
+              </lines>
+            </method>
+            <method name="Dispose" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="75" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="20" hits="3" branch="False" />
+            <line number="25" hits="2" branch="False" />
+            <line number="27" hits="2" branch="False" />
+            <line number="28" hits="2" branch="False" />
+            <line number="30" hits="2" branch="False" />
+            <line number="35" hits="7" branch="False" />
+            <line number="41" hits="7" branch="False" />
+            <line number="42" hits="203" branch="False" />
+            <line number="43" hits="203" branch="False" />
+            <line number="44" hits="203" branch="False" />
+            <line number="45" hits="203" branch="False" />
+            <line number="46" hits="203" branch="False" />
+            <line number="47" hits="203" branch="False" />
+            <line number="48" hits="203" branch="False" />
+            <line number="49" hits="203" branch="False" />
+            <line number="50" hits="7" branch="False" />
+            <line number="51" hits="210" branch="False" />
+            <line number="53" hits="7" branch="False" />
+            <line number="58" hits="3" branch="False" />
+            <line number="60" hits="3" branch="False" />
+            <line number="61" hits="6" branch="False" />
+            <line number="62" hits="6" branch="False" />
+            <line number="63" hits="6" branch="False" />
+            <line number="64" hits="6" branch="False" />
+            <line number="65" hits="6" branch="False" />
+            <line number="66" hits="6" branch="False" />
+            <line number="67" hits="6" branch="False" />
+            <line number="68" hits="6" branch="False" />
+            <line number="70" hits="3" branch="False" />
+            <line number="75" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.ClienteServiceTests" filename="Features.Tests\05 - Mock\ClienteServiceTests.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="ClienteService_Adicionar_DeveExecutarComSucesso" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="27" hits="1" branch="False" />
+                <line number="28" hits="1" branch="False" />
+                <line number="29" hits="1" branch="False" />
+                <line number="31" hits="1" branch="False" />
+                <line number="34" hits="1" branch="False" />
+                <line number="37" hits="1" branch="False" />
+                <line number="38" hits="1" branch="False" />
+                <line number="39" hits="1" branch="False" />
+                <line number="40" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="ClienteService_Adicionar_DeveFalharDevidoClienteInvalido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="47" hits="1" branch="False" />
+                <line number="48" hits="1" branch="False" />
+                <line number="49" hits="1" branch="False" />
+                <line number="51" hits="1" branch="False" />
+                <line number="54" hits="1" branch="False" />
+                <line number="57" hits="1" branch="False" />
+                <line number="58" hits="1" branch="False" />
+                <line number="59" hits="1" branch="False" />
+                <line number="60" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="ClienteService_ObterTodosAtivos_DeveRetornarApenasClientesAtivos" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="67" hits="1" branch="False" />
+                <line number="68" hits="1" branch="False" />
+                <line number="70" hits="1" branch="False" />
+                <line number="71" hits="1" branch="False" />
+                <line number="73" hits="1" branch="False" />
+                <line number="76" hits="1" branch="False" />
+                <line number="79" hits="1" branch="False" />
+                <line number="80" hits="1" branch="False" />
+                <line number="81" hits="51" branch="False" />
+                <line number="82" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Features.Tests.ClienteTestsBogusFixture)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="3" branch="False" />
+                <line number="19" hits="3" branch="False" />
+                <line number="20" hits="3" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="27" hits="1" branch="False" />
+            <line number="28" hits="1" branch="False" />
+            <line number="29" hits="1" branch="False" />
+            <line number="31" hits="1" branch="False" />
+            <line number="34" hits="1" branch="False" />
+            <line number="37" hits="1" branch="False" />
+            <line number="38" hits="1" branch="False" />
+            <line number="39" hits="1" branch="False" />
+            <line number="40" hits="1" branch="False" />
+            <line number="47" hits="1" branch="False" />
+            <line number="48" hits="1" branch="False" />
+            <line number="49" hits="1" branch="False" />
+            <line number="51" hits="1" branch="False" />
+            <line number="54" hits="1" branch="False" />
+            <line number="57" hits="1" branch="False" />
+            <line number="58" hits="1" branch="False" />
+            <line number="59" hits="1" branch="False" />
+            <line number="60" hits="1" branch="False" />
+            <line number="67" hits="1" branch="False" />
+            <line number="68" hits="1" branch="False" />
+            <line number="70" hits="1" branch="False" />
+            <line number="71" hits="1" branch="False" />
+            <line number="73" hits="1" branch="False" />
+            <line number="76" hits="1" branch="False" />
+            <line number="79" hits="1" branch="False" />
+            <line number="80" hits="1" branch="False" />
+            <line number="81" hits="51" branch="False" />
+            <line number="82" hits="1" branch="False" />
+            <line number="17" hits="3" branch="False" />
+            <line number="19" hits="3" branch="False" />
+            <line number="20" hits="3" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.ClienteTestsAutoMockerFixture" filename="Features.Tests\06 - AutoMock\ClienteAutoMockerCollection.cs" line-rate="1" branch-rate="1" complexity="6">
+          <methods>
+            <method name="GerarClienteValido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="3" branch="False" />
+              </lines>
+            </method>
+            <method name="ObterClientesVariados" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="30" hits="2" branch="False" />
+                <line number="32" hits="2" branch="False" />
+                <line number="33" hits="2" branch="False" />
+                <line number="35" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="GerarClientes" signature="(System.Int32,System.Boolean)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="40" hits="7" branch="False" />
+                <line number="46" hits="7" branch="False" />
+                <line number="47" hits="203" branch="False" />
+                <line number="48" hits="203" branch="False" />
+                <line number="49" hits="203" branch="False" />
+                <line number="50" hits="203" branch="False" />
+                <line number="51" hits="203" branch="False" />
+                <line number="52" hits="203" branch="False" />
+                <line number="53" hits="203" branch="False" />
+                <line number="54" hits="203" branch="False" />
+                <line number="55" hits="7" branch="False" />
+                <line number="56" hits="210" branch="False" />
+                <line number="58" hits="7" branch="False" />
+              </lines>
+            </method>
+            <method name="GerarClienteInvalido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="63" hits="3" branch="False" />
+                <line number="65" hits="3" branch="False" />
+                <line number="66" hits="6" branch="False" />
+                <line number="67" hits="6" branch="False" />
+                <line number="68" hits="6" branch="False" />
+                <line number="69" hits="6" branch="False" />
+                <line number="70" hits="6" branch="False" />
+                <line number="71" hits="6" branch="False" />
+                <line number="72" hits="6" branch="False" />
+                <line number="73" hits="6" branch="False" />
+                <line number="75" hits="3" branch="False" />
+              </lines>
+            </method>
+            <method name="ObterClienteService" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="80" hits="6" branch="False" />
+                <line number="81" hits="6" branch="False" />
+                <line number="83" hits="6" branch="False" />
+              </lines>
+            </method>
+            <method name="Dispose" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="88" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="25" hits="3" branch="False" />
+            <line number="30" hits="2" branch="False" />
+            <line number="32" hits="2" branch="False" />
+            <line number="33" hits="2" branch="False" />
+            <line number="35" hits="2" branch="False" />
+            <line number="40" hits="7" branch="False" />
+            <line number="46" hits="7" branch="False" />
+            <line number="47" hits="203" branch="False" />
+            <line number="48" hits="203" branch="False" />
+            <line number="49" hits="203" branch="False" />
+            <line number="50" hits="203" branch="False" />
+            <line number="51" hits="203" branch="False" />
+            <line number="52" hits="203" branch="False" />
+            <line number="53" hits="203" branch="False" />
+            <line number="54" hits="203" branch="False" />
+            <line number="55" hits="7" branch="False" />
+            <line number="56" hits="210" branch="False" />
+            <line number="58" hits="7" branch="False" />
+            <line number="63" hits="3" branch="False" />
+            <line number="65" hits="3" branch="False" />
+            <line number="66" hits="6" branch="False" />
+            <line number="67" hits="6" branch="False" />
+            <line number="68" hits="6" branch="False" />
+            <line number="69" hits="6" branch="False" />
+            <line number="70" hits="6" branch="False" />
+            <line number="71" hits="6" branch="False" />
+            <line number="72" hits="6" branch="False" />
+            <line number="73" hits="6" branch="False" />
+            <line number="75" hits="3" branch="False" />
+            <line number="80" hits="6" branch="False" />
+            <line number="81" hits="6" branch="False" />
+            <line number="83" hits="6" branch="False" />
+            <line number="88" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.ClienteServiceAutoMockerFixtureTests" filename="Features.Tests\06 - AutoMock\ClienteServiceAutoMockerFixtureTests.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="ClienteService_Adicionar_DeveExecutarComSucesso" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="30" hits="1" branch="False" />
+                <line number="33" hits="1" branch="False" />
+                <line number="36" hits="1" branch="False" />
+                <line number="37" hits="1" branch="False" />
+                <line number="38" hits="1" branch="False" />
+                <line number="39" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="ClienteService_Adicionar_DeveFalharDevidoClienteInvalido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="46" hits="1" branch="False" />
+                <line number="49" hits="1" branch="False" />
+                <line number="52" hits="1" branch="False" />
+                <line number="53" hits="1" branch="False" />
+                <line number="54" hits="1" branch="False" />
+                <line number="55" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="ClienteService_ObterTodosAtivos_DeveRetornarApenasClientesAtivos" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="62" hits="1" branch="False" />
+                <line number="63" hits="1" branch="False" />
+                <line number="66" hits="1" branch="False" />
+                <line number="69" hits="1" branch="False" />
+                <line number="70" hits="1" branch="False" />
+                <line number="71" hits="51" branch="False" />
+                <line number="72" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Features.Tests.ClienteTestsAutoMockerFixture)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="3" branch="False" />
+                <line number="21" hits="3" branch="False" />
+                <line number="22" hits="3" branch="False" />
+                <line number="23" hits="3" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="30" hits="1" branch="False" />
+            <line number="33" hits="1" branch="False" />
+            <line number="36" hits="1" branch="False" />
+            <line number="37" hits="1" branch="False" />
+            <line number="38" hits="1" branch="False" />
+            <line number="39" hits="1" branch="False" />
+            <line number="46" hits="1" branch="False" />
+            <line number="49" hits="1" branch="False" />
+            <line number="52" hits="1" branch="False" />
+            <line number="53" hits="1" branch="False" />
+            <line number="54" hits="1" branch="False" />
+            <line number="55" hits="1" branch="False" />
+            <line number="62" hits="1" branch="False" />
+            <line number="63" hits="1" branch="False" />
+            <line number="66" hits="1" branch="False" />
+            <line number="69" hits="1" branch="False" />
+            <line number="70" hits="1" branch="False" />
+            <line number="71" hits="51" branch="False" />
+            <line number="72" hits="1" branch="False" />
+            <line number="19" hits="3" branch="False" />
+            <line number="21" hits="3" branch="False" />
+            <line number="22" hits="3" branch="False" />
+            <line number="23" hits="3" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.ClienteServiceAutoMockerTests" filename="Features.Tests\06 - AutoMock\ClienteServiceAutoMockerTests.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="ClienteService_Adicionar_DeveExecutarComSucesso" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="1" branch="False" />
+                <line number="29" hits="1" branch="False" />
+                <line number="30" hits="1" branch="False" />
+                <line number="33" hits="1" branch="False" />
+                <line number="36" hits="1" branch="False" />
+                <line number="37" hits="1" branch="False" />
+                <line number="38" hits="1" branch="False" />
+                <line number="39" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="ClienteService_Adicionar_DeveFalharDevidoClienteInvalido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="46" hits="1" branch="False" />
+                <line number="47" hits="1" branch="False" />
+                <line number="48" hits="1" branch="False" />
+                <line number="51" hits="1" branch="False" />
+                <line number="54" hits="1" branch="False" />
+                <line number="55" hits="1" branch="False" />
+                <line number="56" hits="1" branch="False" />
+                <line number="57" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="ClienteService_ObterTodosAtivos_DeveRetornarApenasClientesAtivos" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="64" hits="1" branch="False" />
+                <line number="65" hits="1" branch="False" />
+                <line number="67" hits="1" branch="False" />
+                <line number="68" hits="1" branch="False" />
+                <line number="71" hits="1" branch="False" />
+                <line number="74" hits="1" branch="False" />
+                <line number="75" hits="1" branch="False" />
+                <line number="76" hits="51" branch="False" />
+                <line number="77" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Features.Tests.ClienteTestsBogusFixture)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="3" branch="False" />
+                <line number="20" hits="3" branch="False" />
+                <line number="21" hits="3" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="28" hits="1" branch="False" />
+            <line number="29" hits="1" branch="False" />
+            <line number="30" hits="1" branch="False" />
+            <line number="33" hits="1" branch="False" />
+            <line number="36" hits="1" branch="False" />
+            <line number="37" hits="1" branch="False" />
+            <line number="38" hits="1" branch="False" />
+            <line number="39" hits="1" branch="False" />
+            <line number="46" hits="1" branch="False" />
+            <line number="47" hits="1" branch="False" />
+            <line number="48" hits="1" branch="False" />
+            <line number="51" hits="1" branch="False" />
+            <line number="54" hits="1" branch="False" />
+            <line number="55" hits="1" branch="False" />
+            <line number="56" hits="1" branch="False" />
+            <line number="57" hits="1" branch="False" />
+            <line number="64" hits="1" branch="False" />
+            <line number="65" hits="1" branch="False" />
+            <line number="67" hits="1" branch="False" />
+            <line number="68" hits="1" branch="False" />
+            <line number="71" hits="1" branch="False" />
+            <line number="74" hits="1" branch="False" />
+            <line number="75" hits="1" branch="False" />
+            <line number="76" hits="51" branch="False" />
+            <line number="77" hits="1" branch="False" />
+            <line number="18" hits="3" branch="False" />
+            <line number="20" hits="3" branch="False" />
+            <line number="21" hits="3" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.ClienteFluentAssertionsTests" filename="Features.Tests\07 - FluentAssertions\ClienteFluentAssertionsTests.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="Cliente_NovoCliente_DeveEstarValido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="30" hits="1" branch="False" />
+                <line number="33" hits="1" branch="False" />
+                <line number="40" hits="1" branch="False" />
+                <line number="41" hits="1" branch="False" />
+                <line number="43" hits="1" branch="False" />
+                <line number="44" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Cliente_NovoCliente_DeveEstarInvalido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="51" hits="1" branch="False" />
+                <line number="54" hits="1" branch="False" />
+                <line number="61" hits="1" branch="False" />
+                <line number="62" hits="1" branch="False" />
+                <line number="64" hits="1" branch="False" />
+                <line number="65" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Features.Tests.ClienteTestsAutoMockerFixture,Xunit.Abstractions.ITestOutputHelper)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="2" branch="False" />
+                <line number="18" hits="2" branch="False" />
+                <line number="20" hits="2" branch="False" />
+                <line number="21" hits="2" branch="False" />
+                <line number="22" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="30" hits="1" branch="False" />
+            <line number="33" hits="1" branch="False" />
+            <line number="40" hits="1" branch="False" />
+            <line number="41" hits="1" branch="False" />
+            <line number="43" hits="1" branch="False" />
+            <line number="44" hits="1" branch="False" />
+            <line number="51" hits="1" branch="False" />
+            <line number="54" hits="1" branch="False" />
+            <line number="61" hits="1" branch="False" />
+            <line number="62" hits="1" branch="False" />
+            <line number="64" hits="1" branch="False" />
+            <line number="65" hits="1" branch="False" />
+            <line number="17" hits="2" branch="False" />
+            <line number="18" hits="2" branch="False" />
+            <line number="20" hits="2" branch="False" />
+            <line number="21" hits="2" branch="False" />
+            <line number="22" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.ClienteServiceFluentAssertionTests" filename="Features.Tests\07 - FluentAssertions\ClienteServiceFluentAssertionTests.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="ClienteService_Adicionar_DeveExecutarComSucesso" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="32" hits="1" branch="False" />
+                <line number="35" hits="1" branch="False" />
+                <line number="41" hits="1" branch="False" />
+                <line number="43" hits="1" branch="False" />
+                <line number="44" hits="1" branch="False" />
+                <line number="45" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="ClienteService_Adicionar_DeveFalharDevidoClienteInvalido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="52" hits="1" branch="False" />
+                <line number="55" hits="1" branch="False" />
+                <line number="58" hits="1" branch="False" />
+                <line number="61" hits="1" branch="False" />
+                <line number="62" hits="1" branch="False" />
+                <line number="64" hits="1" branch="False" />
+                <line number="65" hits="1" branch="False" />
+                <line number="66" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="ClienteService_ObterTodosAtivos_DeveRetornarApenasClientesAtivos" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="73" hits="1" branch="False" />
+                <line number="74" hits="1" branch="False" />
+                <line number="77" hits="1" branch="False" />
+                <line number="84" hits="1" branch="False" />
+                <line number="85" hits="1" branch="False" />
+                <line number="87" hits="1" branch="False" />
+                <line number="89" hits="1" branch="False" />
+                <line number="90" hits="1" branch="False" />
+                <line number="91" hits="1" branch="False" />
+                <line number="92" hits="1" branch="False" />
+                <line number="93" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Features.Tests.ClienteTestsAutoMockerFixture)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="21" hits="3" branch="False" />
+                <line number="23" hits="3" branch="False" />
+                <line number="24" hits="3" branch="False" />
+                <line number="25" hits="3" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="32" hits="1" branch="False" />
+            <line number="35" hits="1" branch="False" />
+            <line number="41" hits="1" branch="False" />
+            <line number="43" hits="1" branch="False" />
+            <line number="44" hits="1" branch="False" />
+            <line number="45" hits="1" branch="False" />
+            <line number="52" hits="1" branch="False" />
+            <line number="55" hits="1" branch="False" />
+            <line number="58" hits="1" branch="False" />
+            <line number="61" hits="1" branch="False" />
+            <line number="62" hits="1" branch="False" />
+            <line number="64" hits="1" branch="False" />
+            <line number="65" hits="1" branch="False" />
+            <line number="66" hits="1" branch="False" />
+            <line number="73" hits="1" branch="False" />
+            <line number="74" hits="1" branch="False" />
+            <line number="77" hits="1" branch="False" />
+            <line number="84" hits="1" branch="False" />
+            <line number="85" hits="1" branch="False" />
+            <line number="87" hits="1" branch="False" />
+            <line number="89" hits="1" branch="False" />
+            <line number="90" hits="1" branch="False" />
+            <line number="91" hits="1" branch="False" />
+            <line number="92" hits="1" branch="False" />
+            <line number="93" hits="1" branch="False" />
+            <line number="21" hits="3" branch="False" />
+            <line number="23" hits="3" branch="False" />
+            <line number="24" hits="3" branch="False" />
+            <line number="25" hits="3" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.TesteNaoPassandoMotivoEspecifico" filename="Features.Tests\08 - Skip\TesteNaoPassandoMotivoEspecifico.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Teste_NaoEstaPassando_VersaoNovaNaoCompativel" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="Features.Tests.CpfValidationTests" filename="Features.Tests\09 - Code Coverage\CpfValidationTests.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Cpf_ValidarMultiplosNumeros_TodosDevemSerValidos" signature="(System.String)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="5" branch="False" />
+                <line number="26" hits="5" branch="False" />
+                <line number="27" hits="5" branch="False" />
+              </lines>
+            </method>
+            <method name="Cpf_ValidarMultiplosNumeros_TodosDevemSerInvalidos" signature="(System.String)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="40" hits="6" branch="False" />
+                <line number="43" hits="6" branch="False" />
+                <line number="44" hits="6" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="23" hits="5" branch="False" />
+            <line number="26" hits="5" branch="False" />
+            <line number="27" hits="5" branch="False" />
+            <line number="40" hits="6" branch="False" />
+            <line number="43" hits="6" branch="False" />
+            <line number="44" hits="6" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

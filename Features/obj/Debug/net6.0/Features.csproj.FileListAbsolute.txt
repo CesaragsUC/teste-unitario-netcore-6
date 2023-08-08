@@ -1,0 +1,12 @@
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\Features\bin\Debug\net6.0\Features.deps.json
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\Features\bin\Debug\net6.0\Features.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\Features\bin\Debug\net6.0\Features.pdb
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\Features\obj\Debug\net6.0\Features.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\Features\obj\Debug\net6.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\Features\obj\Debug\net6.0\Features.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\Features\obj\Debug\net6.0\Features.AssemblyInfo.cs
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\Features\obj\Debug\net6.0\Features.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\Features\obj\Debug\net6.0\Features.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\Features\obj\Debug\net6.0\refint\Features.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\Features\obj\Debug\net6.0\Features.pdb
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\Features\obj\Debug\net6.0\ref\Features.dll

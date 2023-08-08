@@ -1,0 +1,13 @@
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Domain\bin\Release\netcoreapp2.2\NerdStore.Vendas.Domain.deps.json
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Domain\bin\Release\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Domain\bin\Release\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Domain\bin\Release\netcoreapp2.2\NerdStore.Core.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Domain\bin\Release\netcoreapp2.2\NerdStore.Core.pdb
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Domain\obj\Release\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Domain\obj\Release\netcoreapp2.2\NerdStore.Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Domain\obj\Release\netcoreapp2.2\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Domain\obj\Release\netcoreapp2.2\NerdStore.Vendas.Domain.AssemblyInfo.cs
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Domain\obj\Release\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Domain\obj\Release\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.CopyComplete
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Domain\obj\Release\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Domain\obj\Release\netcoreapp2.2\NerdStore.Vendas.Domain.pdb

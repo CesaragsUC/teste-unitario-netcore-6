@@ -1,0 +1,647 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="0.9937" branch-rate="0.9166" version="1.9" timestamp="1673302852" lines-covered="160" lines-valid="161" branches-covered="22" branches-valid="24">
+  <sources>
+    <source>F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\01 - Testes de Unidades\</source>
+    <source>C:\</source>
+  </sources>
+  <packages>
+    <package name="Demo" line-rate="1" branch-rate="0.9375" complexity="25">
+      <classes>
+        <class name="Demo.Calculadora" filename="Demo\Calculadora.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Somar" signature="(System.Double,System.Double)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="9" branch="False" />
+                <line number="13" hits="9" branch="False" />
+                <line number="14" hits="9" branch="False" />
+              </lines>
+            </method>
+            <method name="Dividir" signature="(System.Int32,System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="2" branch="False" />
+                <line number="18" hits="2" branch="False" />
+                <line number="19" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="9" branch="False" />
+            <line number="13" hits="9" branch="False" />
+            <line number="14" hits="9" branch="False" />
+            <line number="17" hits="2" branch="False" />
+            <line number="18" hits="2" branch="False" />
+            <line number="19" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="Demo.Pessoa" filename="Demo\Funcionario.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_Nome" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="16" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Apelido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="3" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="16" branch="False" />
+            <line number="12" hits="3" branch="False" />
+          </lines>
+        </class>
+        <class name="Demo.Funcionario" filename="Demo\Funcionario.cs" line-rate="1" branch-rate="0.9375" complexity="19">
+          <methods>
+            <method name="get_Salario" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="26" branch="False" />
+              </lines>
+            </method>
+            <method name="get_NivelProfissional" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="46" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Habilidades" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="32" branch="False" />
+              </lines>
+            </method>
+            <method name="DefinirSalario" signature="(System.Double)" line-rate="1" branch-rate="0.9" complexity="10">
+              <lines>
+                <line number="29" hits="15" branch="False" />
+                <line number="30" hits="16" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="15" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="32" hits="14" branch="False" />
+                <line number="33" hits="20" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="50" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="34" hits="10" branch="True" condition-coverage="75% (3/4)">
+                  <conditions>
+                    <condition number="72" type="jump" coverage="50%" />
+                    <condition number="91" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="35" hits="12" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="120" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="36" hits="14" branch="False" />
+              </lines>
+            </method>
+            <method name="DefinirHabilidades" signature="()" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="39" hits="14" branch="False" />
+                <line number="40" hits="14" branch="False" />
+                <line number="41" hits="14" branch="False" />
+                <line number="42" hits="14" branch="False" />
+                <line number="43" hits="14" branch="False" />
+                <line number="44" hits="14" branch="False" />
+                <line number="45" hits="14" branch="False" />
+                <line number="47" hits="14" branch="False" />
+                <line number="49" hits="14" branch="True" condition-coverage="100% (4/4)">
+                  <conditions>
+                    <condition number="50" type="jump" coverage="100%" />
+                    <condition number="56" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="52" hits="2" branch="False" />
+                <line number="53" hits="2" branch="False" />
+                <line number="55" hits="6" branch="False" />
+                <line number="56" hits="6" branch="False" />
+                <line number="57" hits="6" branch="False" />
+                <line number="59" hits="14" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.String,System.Double)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="21" hits="15" branch="False" />
+                <line number="22" hits="15" branch="False" />
+                <line number="23" hits="15" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="15" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="24" hits="15" branch="False" />
+                <line number="25" hits="14" branch="False" />
+                <line number="26" hits="14" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="17" hits="26" branch="False" />
+            <line number="18" hits="46" branch="False" />
+            <line number="19" hits="32" branch="False" />
+            <line number="29" hits="15" branch="False" />
+            <line number="30" hits="16" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="15" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="32" hits="14" branch="False" />
+            <line number="33" hits="20" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="50" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="34" hits="10" branch="True" condition-coverage="75% (3/4)">
+              <conditions>
+                <condition number="72" type="jump" coverage="50%" />
+                <condition number="91" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="35" hits="12" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="120" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="36" hits="14" branch="False" />
+            <line number="39" hits="14" branch="False" />
+            <line number="40" hits="14" branch="False" />
+            <line number="41" hits="14" branch="False" />
+            <line number="42" hits="14" branch="False" />
+            <line number="43" hits="14" branch="False" />
+            <line number="44" hits="14" branch="False" />
+            <line number="45" hits="14" branch="False" />
+            <line number="47" hits="14" branch="False" />
+            <line number="49" hits="14" branch="True" condition-coverage="100% (4/4)">
+              <conditions>
+                <condition number="50" type="jump" coverage="100%" />
+                <condition number="56" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="52" hits="2" branch="False" />
+            <line number="53" hits="2" branch="False" />
+            <line number="55" hits="6" branch="False" />
+            <line number="56" hits="6" branch="False" />
+            <line number="57" hits="6" branch="False" />
+            <line number="59" hits="14" branch="False" />
+            <line number="21" hits="15" branch="False" />
+            <line number="22" hits="15" branch="False" />
+            <line number="23" hits="15" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="15" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="24" hits="15" branch="False" />
+            <line number="25" hits="14" branch="False" />
+            <line number="26" hits="14" branch="False" />
+          </lines>
+        </class>
+        <class name="Demo.FuncionarioFactory" filename="Demo\Funcionario.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Criar" signature="(System.String,System.Double)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="72" hits="7" branch="False" />
+                <line number="73" hits="7" branch="False" />
+                <line number="74" hits="6" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="72" hits="7" branch="False" />
+            <line number="73" hits="7" branch="False" />
+            <line number="74" hits="6" branch="False" />
+          </lines>
+        </class>
+        <class name="Demo.StringsTools" filename="Demo\StringsTools.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Unir" signature="(System.String,System.String)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="6" branch="False" />
+                <line number="13" hits="6" branch="False" />
+                <line number="14" hits="6" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="6" branch="False" />
+            <line number="13" hits="6" branch="False" />
+            <line number="14" hits="6" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Demo.Teste" line-rate="0.9913" branch-rate="0.875" complexity="29">
+      <classes>
+        <class name="AutoGeneratedProgram" filename="Users\cesar\.nuget\packages\microsoft.net.test.sdk\17.1.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(System.String[])" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="Demo.Teste.CalculadoraTests" filename="Demo.Teste\01 - CalculadoraTests.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="Calculadora_Somar_Retonar_Valor_Soma" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="1" branch="False" />
+                <line number="10" hits="1" branch="False" />
+                <line number="13" hits="1" branch="False" />
+                <line number="16" hits="1" branch="False" />
+                <line number="17" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Calculadora_Somar_Retonar_Valor_Divisao" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="1" branch="False" />
+                <line number="24" hits="1" branch="False" />
+                <line number="27" hits="1" branch="False" />
+                <line number="30" hits="1" branch="False" />
+                <line number="31" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Calculadora_Somar_RetornarValoresSomaCorretos" signature="(System.Double,System.Double,System.Double)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="43" hits="6" branch="False" />
+                <line number="45" hits="6" branch="False" />
+                <line number="48" hits="6" branch="False" />
+                <line number="51" hits="6" branch="False" />
+                <line number="52" hits="6" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="1" branch="False" />
+            <line number="10" hits="1" branch="False" />
+            <line number="13" hits="1" branch="False" />
+            <line number="16" hits="1" branch="False" />
+            <line number="17" hits="1" branch="False" />
+            <line number="22" hits="1" branch="False" />
+            <line number="24" hits="1" branch="False" />
+            <line number="27" hits="1" branch="False" />
+            <line number="30" hits="1" branch="False" />
+            <line number="31" hits="1" branch="False" />
+            <line number="43" hits="6" branch="False" />
+            <line number="45" hits="6" branch="False" />
+            <line number="48" hits="6" branch="False" />
+            <line number="51" hits="6" branch="False" />
+            <line number="52" hits="6" branch="False" />
+          </lines>
+        </class>
+        <class name="Demo.Teste.AssertStringsTests" filename="Demo.Teste\02 - AssertStringsTests.cs" line-rate="1" branch-rate="1" complexity="6">
+          <methods>
+            <method name="StringsTools_UnirNomes_RetornarNomeCompleto" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="1" branch="False" />
+                <line number="17" hits="1" branch="False" />
+                <line number="20" hits="1" branch="False" />
+                <line number="23" hits="1" branch="False" />
+                <line number="24" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="StringsTools_UnirNomes_DeveIgnorarCase" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="31" hits="1" branch="False" />
+                <line number="33" hits="1" branch="False" />
+                <line number="36" hits="1" branch="False" />
+                <line number="39" hits="1" branch="False" />
+                <line number="40" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="StringsTools_UnirNomes_DeveConterTrecho" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="47" hits="1" branch="False" />
+                <line number="49" hits="1" branch="False" />
+                <line number="52" hits="1" branch="False" />
+                <line number="55" hits="1" branch="False" />
+                <line number="56" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="StringsTools_UnirNomes_DeveComecarCom" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="62" hits="1" branch="False" />
+                <line number="64" hits="1" branch="False" />
+                <line number="67" hits="1" branch="False" />
+                <line number="70" hits="1" branch="False" />
+                <line number="71" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="StringsTools_UnirNomes_DeveAcabarCom" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="77" hits="1" branch="False" />
+                <line number="79" hits="1" branch="False" />
+                <line number="82" hits="1" branch="False" />
+                <line number="85" hits="1" branch="False" />
+                <line number="86" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="StringsTools_UnirNomes_ValidarExpressaoRegular" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="92" hits="1" branch="False" />
+                <line number="94" hits="1" branch="False" />
+                <line number="97" hits="1" branch="False" />
+                <line number="100" hits="1" branch="False" />
+                <line number="101" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="1" branch="False" />
+            <line number="17" hits="1" branch="False" />
+            <line number="20" hits="1" branch="False" />
+            <line number="23" hits="1" branch="False" />
+            <line number="24" hits="1" branch="False" />
+            <line number="31" hits="1" branch="False" />
+            <line number="33" hits="1" branch="False" />
+            <line number="36" hits="1" branch="False" />
+            <line number="39" hits="1" branch="False" />
+            <line number="40" hits="1" branch="False" />
+            <line number="47" hits="1" branch="False" />
+            <line number="49" hits="1" branch="False" />
+            <line number="52" hits="1" branch="False" />
+            <line number="55" hits="1" branch="False" />
+            <line number="56" hits="1" branch="False" />
+            <line number="62" hits="1" branch="False" />
+            <line number="64" hits="1" branch="False" />
+            <line number="67" hits="1" branch="False" />
+            <line number="70" hits="1" branch="False" />
+            <line number="71" hits="1" branch="False" />
+            <line number="77" hits="1" branch="False" />
+            <line number="79" hits="1" branch="False" />
+            <line number="82" hits="1" branch="False" />
+            <line number="85" hits="1" branch="False" />
+            <line number="86" hits="1" branch="False" />
+            <line number="92" hits="1" branch="False" />
+            <line number="94" hits="1" branch="False" />
+            <line number="97" hits="1" branch="False" />
+            <line number="100" hits="1" branch="False" />
+            <line number="101" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="Demo.Teste.AssertNumbersTests" filename="Demo.Teste\03 - AssertNumbersTests.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Calculadora_Somar_DeveSerIgual" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="1" branch="False" />
+                <line number="15" hits="1" branch="False" />
+                <line number="18" hits="1" branch="False" />
+                <line number="21" hits="1" branch="False" />
+                <line number="22" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Calculadora_Somar_NaoDeveSerIgual" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="26" hits="1" branch="False" />
+                <line number="28" hits="1" branch="False" />
+                <line number="31" hits="1" branch="False" />
+                <line number="34" hits="1" branch="False" />
+                <line number="35" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="1" branch="False" />
+            <line number="15" hits="1" branch="False" />
+            <line number="18" hits="1" branch="False" />
+            <line number="21" hits="1" branch="False" />
+            <line number="22" hits="1" branch="False" />
+            <line number="26" hits="1" branch="False" />
+            <line number="28" hits="1" branch="False" />
+            <line number="31" hits="1" branch="False" />
+            <line number="34" hits="1" branch="False" />
+            <line number="35" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="Demo.Teste.AssertNullBoolTests" filename="Demo.Teste\04 - AssertNullBoolTests.cs" line-rate="1" branch-rate="0.5" complexity="3">
+          <methods>
+            <method name="Funcionario_Nome_NaoDeveSerNuloOuVazio" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="1" branch="False" />
+                <line number="15" hits="1" branch="False" />
+                <line number="18" hits="1" branch="False" />
+                <line number="19" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Funcionario_Apelido_NaoDeveTerApelido" signature="()" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="23" hits="1" branch="False" />
+                <line number="25" hits="1" branch="False" />
+                <line number="28" hits="1" branch="False" />
+                <line number="31" hits="1" branch="False" />
+                <line number="32" hits="1" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="57" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="33" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="1" branch="False" />
+            <line number="15" hits="1" branch="False" />
+            <line number="18" hits="1" branch="False" />
+            <line number="19" hits="1" branch="False" />
+            <line number="23" hits="1" branch="False" />
+            <line number="25" hits="1" branch="False" />
+            <line number="28" hits="1" branch="False" />
+            <line number="31" hits="1" branch="False" />
+            <line number="32" hits="1" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="57" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="33" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="Demo.Teste.AssertingRangesTests" filename="Demo.Teste\05 - AssertingRangesTests.cs" line-rate="1" branch-rate="1" complexity="6">
+          <methods>
+            <method name="Funcionario_Salario_FaixasSalariaisDevemRespeitarNivelProfissional" signature="(System.Double)" line-rate="1" branch-rate="1" complexity="6">
+              <lines>
+                <line number="19" hits="6" branch="False" />
+                <line number="21" hits="6" branch="False" />
+                <line number="24" hits="6" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="24" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="25" hits="2" branch="False" />
+                <line number="27" hits="6" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="67" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="28" hits="2" branch="False" />
+                <line number="30" hits="6" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="110" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="31" hits="2" branch="False" />
+                <line number="33" hits="6" branch="False" />
+                <line number="34" hits="6" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="19" hits="6" branch="False" />
+            <line number="21" hits="6" branch="False" />
+            <line number="24" hits="6" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="24" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="25" hits="2" branch="False" />
+            <line number="27" hits="6" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="67" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="28" hits="2" branch="False" />
+            <line number="30" hits="6" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="110" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="31" hits="2" branch="False" />
+            <line number="33" hits="6" branch="False" />
+            <line number="34" hits="6" branch="False" />
+          </lines>
+        </class>
+        <class name="Demo.Teste.AssertingObjectTypesTests" filename="Demo.Teste\06 - AssertingObjectTypesTests.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="FuncionarioFactory_Criar_DeveRetornarTipoFuncionario" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="1" branch="False" />
+                <line number="15" hits="1" branch="False" />
+                <line number="18" hits="1" branch="False" />
+                <line number="19" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="FuncionarioFactory_Criar_DeveRetornarTipoDerivadoPessoa" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="1" branch="False" />
+                <line number="25" hits="1" branch="False" />
+                <line number="28" hits="1" branch="False" />
+                <line number="29" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="1" branch="False" />
+            <line number="15" hits="1" branch="False" />
+            <line number="18" hits="1" branch="False" />
+            <line number="19" hits="1" branch="False" />
+            <line number="23" hits="1" branch="False" />
+            <line number="25" hits="1" branch="False" />
+            <line number="28" hits="1" branch="False" />
+            <line number="29" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="Demo.Teste.AssertingCollectionsTests" filename="Demo.Teste\07 - AssertingCollectionsTests.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="Funcionario_Habilidades_NaoDevePossuirHabilidadesVazias" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="1" branch="False" />
+                <line number="15" hits="1" branch="False" />
+                <line number="18" hits="5" branch="False" />
+                <line number="19" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Funcionario_Habilidades_JuniorDevePossuirHabilidadeBasica" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="1" branch="False" />
+                <line number="25" hits="1" branch="False" />
+                <line number="28" hits="1" branch="False" />
+                <line number="29" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Funcionario_Habilidades_JuniorNaoDevePossuirHabilidadeAvancada" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="34" hits="1" branch="False" />
+                <line number="36" hits="1" branch="False" />
+                <line number="39" hits="1" branch="False" />
+                <line number="40" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Funcionario_Habilidades_SeniorDevePossuirTodasHabilidades" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="45" hits="1" branch="False" />
+                <line number="47" hits="1" branch="False" />
+                <line number="49" hits="1" branch="False" />
+                <line number="50" hits="1" branch="False" />
+                <line number="51" hits="1" branch="False" />
+                <line number="52" hits="1" branch="False" />
+                <line number="53" hits="1" branch="False" />
+                <line number="54" hits="1" branch="False" />
+                <line number="55" hits="1" branch="False" />
+                <line number="58" hits="1" branch="False" />
+                <line number="59" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="1" branch="False" />
+            <line number="15" hits="1" branch="False" />
+            <line number="18" hits="5" branch="False" />
+            <line number="19" hits="1" branch="False" />
+            <line number="23" hits="1" branch="False" />
+            <line number="25" hits="1" branch="False" />
+            <line number="28" hits="1" branch="False" />
+            <line number="29" hits="1" branch="False" />
+            <line number="34" hits="1" branch="False" />
+            <line number="36" hits="1" branch="False" />
+            <line number="39" hits="1" branch="False" />
+            <line number="40" hits="1" branch="False" />
+            <line number="45" hits="1" branch="False" />
+            <line number="47" hits="1" branch="False" />
+            <line number="49" hits="1" branch="False" />
+            <line number="50" hits="1" branch="False" />
+            <line number="51" hits="1" branch="False" />
+            <line number="52" hits="1" branch="False" />
+            <line number="53" hits="1" branch="False" />
+            <line number="54" hits="1" branch="False" />
+            <line number="55" hits="1" branch="False" />
+            <line number="58" hits="1" branch="False" />
+            <line number="59" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="Demo.Teste.AssertingExceptionsTests" filename="Demo.Teste\08 - AssertingExceptionsTests.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Calculadora_Dividir_DeveRetornarErroDivisaoPorZero" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="1" branch="False" />
+                <line number="15" hits="1" branch="False" />
+                <line number="18" hits="2" branch="False" />
+                <line number="19" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Funcionario_Salario_DeveRetornarErroSalarioInferiorPermitido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="1" branch="False" />
+                <line number="26" hits="1" branch="False" />
+                <line number="27" hits="2" branch="False" />
+                <line number="29" hits="1" branch="False" />
+                <line number="30" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="1" branch="False" />
+            <line number="15" hits="1" branch="False" />
+            <line number="18" hits="2" branch="False" />
+            <line number="19" hits="1" branch="False" />
+            <line number="24" hits="1" branch="False" />
+            <line number="26" hits="1" branch="False" />
+            <line number="27" hits="2" branch="False" />
+            <line number="29" hits="1" branch="False" />
+            <line number="30" hits="1" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

@@ -1,0 +1,17 @@
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.deps.json
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.pdb
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.pdb
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.AssemblyInfo.cs
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.csproj.CopyComplete
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\03 - Testes de Integracao\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.pdb

@@ -1,0 +1,12 @@
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\01 - Testes de Unidades\Demo\bin\Debug\net6.0\Demo.deps.json
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\01 - Testes de Unidades\Demo\bin\Debug\net6.0\Demo.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\01 - Testes de Unidades\Demo\bin\Debug\net6.0\Demo.pdb
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\refint\Demo.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.pdb
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\ref\Demo.dll

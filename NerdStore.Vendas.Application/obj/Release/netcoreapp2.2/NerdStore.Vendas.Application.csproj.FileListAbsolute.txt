@@ -1,0 +1,15 @@
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Application\bin\Release\netcoreapp2.2\NerdStore.Vendas.Application.deps.json
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Application\bin\Release\netcoreapp2.2\NerdStore.Vendas.Application.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Application\bin\Release\netcoreapp2.2\NerdStore.Vendas.Application.pdb
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Application\bin\Release\netcoreapp2.2\NerdStore.Core.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Application\bin\Release\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Application\bin\Release\netcoreapp2.2\NerdStore.Core.pdb
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Application\bin\Release\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Application\obj\Release\netcoreapp2.2\NerdStore.Vendas.Application.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Application\obj\Release\netcoreapp2.2\NerdStore.Vendas.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Application\obj\Release\netcoreapp2.2\NerdStore.Vendas.Application.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Application\obj\Release\netcoreapp2.2\NerdStore.Vendas.Application.AssemblyInfo.cs
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Application\obj\Release\netcoreapp2.2\NerdStore.Vendas.Application.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Application\obj\Release\netcoreapp2.2\NerdStore.Vendas.Application.csproj.CopyComplete
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Application\obj\Release\netcoreapp2.2\NerdStore.Vendas.Application.dll
+F:\Projetos ASP.NET\Curso Testes\TestesDeSoftware\NerdStore.Vendas.Application\obj\Release\netcoreapp2.2\NerdStore.Vendas.Application.pdb
